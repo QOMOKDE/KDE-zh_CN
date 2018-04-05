@@ -3,7 +3,7 @@
 
 ### 链接：
 社区主页：<http://www.linux-ren.org/><br>
-Github: <https://github.com/qomolinux/KDE-zh_CN><br>
+Github: <https://github.com/QOMOKDE/KDE-zh_CN><br>
 PO文件申领及汇报：<http://www.linux-ren.org/thread/89719.html><br>
 
 
